@@ -4,9 +4,9 @@
 *Welcome to my GitHub profile, where creativity meets code!* 🚀
 
 ### 🚀 About Me
-- ![Verified](https://img.icons8.com/emoji/20/000000/white-heavy-check-mark-emoji.png) **Professional Programmer**: Reliable with a digital signature that guarantees quality and trust.
+- ![Verified](https://img.icons8.com/emoji/20/000000/check-mark-emoji.png) **Professional Programmer**: Reliable with a digital signature that guarantees quality and trust.
 - ![Python](https://img.icons8.com/color/20/000000/python.png) **Python Enthusiast**: I love scripting in Python and sharing useful snippets with the community.
-- ![Money](https://img.icons8.com/emoji/20/000000/money-with-wings.png) **GitHub Marketplace**: Some of my scripts are available for purchase—bringing functionality and convenience to a wider audience.
+- ![Money](https://img.icons8.com/?size=100&id=KGhSnVZPf0Vl&format=png&color=000000) **GitHub Marketplace**: Some of my scripts are available for purchase—bringing functionality and convenience to a wider audience.
 
 ### 💼 Projects I’m Passionate About
 - ![Data](https://img.icons8.com/emoji/20/000000/bar-chart.png) **Data Scraping & Processing**: Using BeautifulSoup, Pandas, and custom scripts to extract and refine data.
