@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Milly Mae
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)  
+![Profile Views](https://komarev.com/ghpvc/?username=superevilstockholm&color=blueviolet&style=flat-square)  
 *Welcome to my GitHub profile, where creativity meets code!* 🚀
 
 ### 💻 Tech Stack
