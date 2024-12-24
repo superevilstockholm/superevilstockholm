@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋 I'm Milly Mae
 
-<!--
-**superevilstockholm/superevilstockholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=superevilstockholm&color=blueviolet&style=flat-square)  
+*Welcome to my GitHub profile, where creativity meets code!* 🚀
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- ![Python](https://img.icons8.com/color/20/000000/python.png) **Languages**: Python, JavaScript, SQL
+- ![Frameworks](https://img.icons8.com/color/20/000000/javascript.png) **Libraries/Frameworks**: Flask, Quart, Bootstrap, Vue.js
+- ![Database](https://img.icons8.com/color/20/000000/database.png) **Databases**: SQLite, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Currently Learning
+- ![Graphics](https://img.icons8.com/color/20/000000/3d-view.png) Advanced Three.js for web graphics
+- ![Optimization](https://img.icons8.com/color/20/000000/optimization.png) Optimization techniques in ML image generation
+
+### 🤝 Connect with Me
+- 🌐 **Website**: [Coming Soon](https://github.com)
+
+---
+
+> “Code is like humor. When you *have* to explain it, it's bad.” — Cory House
