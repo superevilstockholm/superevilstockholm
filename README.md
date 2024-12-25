@@ -1,15 +1,15 @@
-# Hi there! 👋 I'm Milly Mae
+# Hi there! 👋 I'm Milly Mae, i am currently studying at SMPN 4 Yogyakarta
 
 ![Profile Views](https://komarev.com/ghpvc/?username=superevilstockholm&color=blueviolet&style=flat-square)  
 *Welcome to my GitHub profile, where creativity meets code!* 🚀
 
 ### 💻 Tech Stack
 - ![Python](https://img.icons8.com/color/20/000000/python.png) **Languages**: Python, JavaScript, SQL
-- ![Frameworks](https://img.icons8.com/color/20/000000/javascript.png) **Libraries/Frameworks**: Flask, Quart, Bootstrap, Vue.js
+- ![Frameworks](https://img.icons8.com/color/20/000000/javascript.png) **Libraries/Frameworks**: Fast-Api, Flask, Quart, Bootstrap, Vue.js
 - ![Database](https://img.icons8.com/color/20/000000/database.png) **Databases**: SQLite, MySQL
 
 ### 📈 Currently Learning
-- ![Graphics](https://img.icons8.com/color/20/000000/3d-view.png) Advanced Three.js for web graphics
+- ![Graphics](https://img.icons8.com/color/20/000000/3d-view.png) Advanced Three.js for advanced 3d web view
 - ![Optimization](https://img.icons8.com/color/20/000000/optimization.png) Optimization techniques in ML image generation
 
 ### 🤝 Connect with Me
