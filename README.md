@@ -1,7 +1,6 @@
-# Hi there! 👋 I'm Milly Mae, i am currently studying at SMPN 4 Yogyakarta
-
+# Hi there! 👋 I'm Milly Mae
 ![Profile Views](https://komarev.com/ghpvc/?username=superevilstockholm&color=blueviolet&style=flat-square)  
-*Welcome to my GitHub profile, where creativity meets code!* 🚀
+*Welcome to my GitHub profile, where creativity meets code!* 🚀. i am currently studying at SMPN 4 Yogyakarta
 
 ### 💻 Tech Stack
 - ![Python](https://img.icons8.com/color/20/000000/python.png) **Languages**: Python, JavaScript, SQL
