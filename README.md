@@ -17,3 +17,5 @@
 ---
 
 > “Code is like humor. When you *have* to explain it, it's bad.” — Cory House
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=10&theme=radical)
