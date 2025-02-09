@@ -4,12 +4,8 @@
 
 ### 💻 Tech Stack
 - ![Python](https://img.icons8.com/color/20/000000/python.png) **Languages**: Python, JavaScript, SQL
-- ![Frameworks](https://img.icons8.com/color/20/000000/javascript.png) **Libraries/Frameworks**: Fast-Api, Flask, Quart, Bootstrap, Vue.js
+- ![Frameworks](https://img.icons8.com/color/20/000000/javascript.png) **Libraries/Frameworks**: Fast-Api, Flask, Quart, Bootstrap 5, Vue.js, Vuetify
 - ![Database](https://img.icons8.com/color/20/000000/database.png) **Databases**: SQLite, MySQL
-
-### 📈 Currently Learning
-- ![Graphics](https://img.icons8.com/color/20/000000/3d-view.png) Advanced Three.js for advanced 3d web view
-- ![Optimization](https://img.icons8.com/color/20/000000/optimization.png) Optimization techniques in ML image generation
 
 ### 🤝 Connect with Me
 - 🌐 **Website**: [Coming Soon](https://github.com)
