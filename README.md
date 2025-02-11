@@ -1,17 +1,13 @@
-# Hi there! 👋 I'm Milly Mae
+# Hi there! 👋 I'm **Rizky Aditya Zaenal**  
 ![Profile Views](https://komarev.com/ghpvc/?username=superevilstockholm&color=blueviolet&style=flat-square)  
-*Welcome to my GitHub profile, where creativity meets code!* 🚀. i am currently studying at SMPN 4 Yogyakarta
+__*Welcome to my GitHub profile, where creativity meets code! 🚀. i am currently studying at SMPN 4 Yogyakarta*__  
 
-### 💻 Tech Stack
-- ![Python](https://img.icons8.com/color/20/000000/python.png) **Languages**: Python, JavaScript, SQL
-- ![Frameworks](https://img.icons8.com/color/20/000000/javascript.png) **Libraries/Frameworks**: Fast-Api, Flask, Quart, Bootstrap 5, Vue.js, Vuetify
-- ![Database](https://img.icons8.com/color/20/000000/database.png) **Databases**: SQLite, MySQL
+## **💻 Tech Stack**<br><br><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="FastAPI" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="Vue JS" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Vue JS" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="Gitlab" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HtML 5" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50"/>  
 
-### 🤝 Connect with Me
-- 🌐 **Website**: [Coming Soon](https://github.com)
+## **🔧 Tools**<br><br><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" width="50"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" width="50"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" width="50"/>  
 
----
+## **🚀 GitHub Statistics**<br><br>![GitHub Streak](https://streak-stats.demolab.com?user=superevilstockholm&theme=radical&hide_border=true&border_radius=8)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=superevilstockholm&show_icons=true&theme=radical&hide_border=true)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superevilstockholm&layout=compact&langs_count=10&theme=radical)  
+
+### 🤝 **Connect with Me**<br><br>&nbsp;![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/small/light/linkedin.svg) **[LinkedIn](https://www.linkedin.com/in/rizky-aditya-zaenal-bjorki199/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3Bsz8zliKuQzWkt9I28Q9amA%3D%3D)** | ![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/small/light/instagram.svg) **[Instagram](instagram.com/achylsnawa/)** | ![YouTube](https://github.com/CLorant/readme-social-icons/blob/main/small/light/youtube.svg) **[YouTube](https://www.youtube.com/@dit_project)**  
 
 > “Code is like humor. When you *have* to explain it, it's bad.” — Cory House
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superevilstockholm&layout=compact&langs_count=10&theme=radical)
