@@ -16,4 +16,6 @@ __*Welcome to my GitHub profile, where creativity meets code! 🚀. i am current
 
 ### 🤝 **Connect with Me**<br><br>&nbsp;![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/small/light/linkedin.svg) **[LinkedIn](https://www.linkedin.com/in/rizky-aditya-zaenal-bjorki199/)** | ![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/small/light/instagram.svg) **[Instagram](https://instagram.com/achylsnawa/)** | ![YouTube](https://github.com/CLorant/readme-social-icons/blob/main/small/light/youtube.svg) **[YouTube](https://www.youtube.com/@dit_project)**  
 
+<img src="https://github.com/superevilstockholm/superevilstockholm/blob/main/assets/github-user-contribution.svg" alt="Commit cotribute" width="100%"/>
+
 > “Code is like humor. When you *have* to explain it, it's bad.” — Cory House
