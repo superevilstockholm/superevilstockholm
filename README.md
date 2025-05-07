@@ -14,7 +14,7 @@ __*Welcome to my GitHub profile, where creativity meets code! 🚀. i am current
 
 ## **🚀 GitHub Statistics**<br><br>![GitHub Streak](https://streak-stats.demolab.com?user=superevilstockholm&theme=radical&hide_border=true&border_radius=8)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=superevilstockholm&show_icons=true&theme=radical&hide_border=true)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=superevilstockholm&layout=compact&langs_count=10&theme=radical)  
 
-### 🤝 **Connect with Me**<br><br>&nbsp;![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/small/light/linkedin.svg) **[LinkedIn](https://www.linkedin.com/in/rizky-aditya-zaenal-bjorki199/)** | ![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/small/light/instagram.svg) **[Instagram](https://instagram.com/achylsnawa/)** | ![YouTube](https://github.com/CLorant/readme-social-icons/blob/main/small/light/youtube.svg) **[YouTube](https://www.youtube.com/@dit_project)**  
+### 🤝 **Connect with Me**<br><br>&nbsp;![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/small/light/linkedin.svg) **[LinkedIn](https://www.linkedin.com/in/rizky-aditya-zaenal-bjorki199/)** | ![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/small/light/instagram.svg) **[Instagram](https://www.instagram.com/bjorki199/)** | ![YouTube](https://github.com/CLorant/readme-social-icons/blob/main/small/light/youtube.svg) **[YouTube](https://www.youtube.com/@dit_project)**  
 
 <img src="https://github.com/superevilstockholm/superevilstockholm/blob/main/assets/github-user-contribution.svg" alt="Commit cotribute" width="100%"/>
 
