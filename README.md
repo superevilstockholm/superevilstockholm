@@ -20,4 +20,4 @@ __*Welcome to my GitHub profile, where creativity meets code! 🚀. i am current
 
 <img src="https://github.com/superevilstockholm/superevilstockholm/blob/main/assets/github-user-contribution.svg" alt="Commit cotribute" width="100%"/>
 
-> “Code is like humor. When you *have* to explain it, it's bad.” — Cory House
+> “Before software can be reusable it first has to be usable.” — _Ralph Johnson_
