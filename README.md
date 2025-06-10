@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm **Rizky Aditya Zaenal**  
 ![Profile Views](https://komarev.com/ghpvc/?username=superevilstockholm&color=blueviolet&style=flat-square)  
-__*Welcome to my GitHub profile, where creativity meets code! 🚀. i am currently studying at SMKN 4 Tangerang*__  
+__*Welcome to my GitHub profile, where creativity meets code! 🚀. i am currently studying at SMKN 4 Tangerang and Internship at PT. Penukal Integritas Indonesia.*__  
 
 ## **Programming Language**<br><br><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50"/>  
 
