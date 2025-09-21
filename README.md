@@ -20,7 +20,7 @@ __*Welcome to my GitHub profile, where creativity meets code! 🚀. i am current
 
 ## **🚀 GitHub Statistics**<br><br><img src="https://streak-stats.demolab.com?user=superevilstockholm&theme=radical&hide_border=true&border_radius=8" /> <img src="https://github-readme-stats.vercel.app/api?username=superevilstockholm&show_icons=true&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superevilstockholm&layout=compact&langs_count=10&theme=radical&hide_border=true" />  
 
-## **🏆 GitHub Trophy**<br><br><img src="https://github-profile-trophy.vercel.app/?username=superevilstockholm&theme=radical&no-frame=true&margin-w=15" />  
+## **🏆 GitHub Trophy**<br><br><img src="https://github-profile-trophy.vercel.app/?username=superevilstockholm&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=5" />  
 
 ## **🫴 Contribution Graph**<br><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=superevilstockholm&theme=monokai&hide_border=true" />  
 
