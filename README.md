@@ -4,8 +4,6 @@ __*Welcome to my GitHub profile, where creativity meets code! 🚀. I am current
 
 > ```print("Hello World😊")```
 
-_I'm **currently** working on multiple projects: a **school tuition payment system**, a **school website**, an **educational foundation website**, and an **interactive dashboard**. Beyond web development, I’m also building a **Roblox game** and a **smart home IoT system with AI voice integration**._  
-
 ## **Programming Language**<br><br><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" alt="LUA" width="50"/>  
 
 ## **BackEnd**<br><br><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="FastAPI" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="50"/>  
