@@ -26,7 +26,7 @@ __*Welcome to my GitHub profile, where creativity meets code! 🚀. I am current
 
 ## **🫴 Contribution Graph**<br><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=superevilstockholm&theme=monokai&hide_border=true" alt="GitHub user contributions" />  
 
-### 🤝 **Connect with Me**<br><br>&nbsp;![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/small/light/linkedin.svg) **[LinkedIn](https://www.linkedin.com/in/rizky-aditya-zaenal-bjorki199/)** | ![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/small/light/instagram.svg) **[Instagram](https://www.instagram.com/bjorki199/)** | ![YouTube](https://github.com/CLorant/readme-social-icons/blob/main/small/light/youtube.svg) **[YouTube](https://www.youtube.com/@dit_project)**  
+### 🤝 **Connect with Me**<br><br>&nbsp;![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/small/light/linkedin.svg) **[LinkedIn](https://www.linkedin.com/in/rizky-aditya-zaenal-bjorki199/)** | ![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/small/light/instagram.svg) **[Instagram](https://www.instagram.com/bjorki_dev/)** | ![YouTube](https://github.com/CLorant/readme-social-icons/blob/main/small/light/youtube.svg) **[YouTube](https://www.youtube.com/@dit_project)**  
 
 <img src="https://github.com/superevilstockholm/superevilstockholm/blob/main/assets/github-user-contribution.svg" alt="GitHub user contributions" width="100%"/>  
 
