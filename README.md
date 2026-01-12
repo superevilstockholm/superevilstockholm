@@ -30,4 +30,4 @@ __*Welcome to my GitHub profile, where creativity meets code! 🚀. I am current
 
 <img src="https://github.com/superevilstockholm/superevilstockholm/blob/main/assets/github-user-contribution.svg" alt="GitHub user contributions" width="100%"/>  
 
-> “Before software can be reusable it first has to be usable.” — _Ralph Johnson_  
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — _Martin Fowler_  
