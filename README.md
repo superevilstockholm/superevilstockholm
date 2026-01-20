@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm **Rizky Aditya Zaenal**
 ![Profile Views](https://komarev.com/ghpvc/?username=superevilstockholm&color=blueviolet&style=flat-square)  
-__*Welcome to my GitHub profile, where creativity meets code! 🚀. I am currently studying at SMKN 4 Tangerang and have completed a 7-month internship program at PT. Penukal Integritas Indonesia.*__  
+__*Welcome to my GitHub profile, where creativity meets code! 🚀. I am currently studying at SMKN 4 Tangerang and have completed a 7-month internship program at PT. Penukal Integritas Indonesia, and also participated in a 2-month Industrial Class Program*__  
 
 > ```print("Hello World😊")```
 
