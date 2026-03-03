@@ -28,6 +28,6 @@ __*Welcome to my GitHub profile, where creativity meets code! 🚀. I am current
 
 ### 🤝 **Connect with Me**<br><br>&nbsp;![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/small/light/linkedin.svg) **[LinkedIn](https://www.linkedin.com/in/rizky-aditya-zaenal/)** | ![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/small/light/instagram.svg) **[Instagram](https://www.instagram.com/bjorki_dev/)** | ![YouTube](https://github.com/CLorant/readme-social-icons/blob/main/small/light/youtube.svg) **[YouTube](https://www.youtube.com/@dit_project)**  
 
-<img src="https://github.com/superevilstockholm/superevilstockholm/blob/main/assets/github-user-contribution.svg" alt="GitHub user contributions" width="100%"/>  
+<img src="https://github.com/superevilstockholm/GitHub-Contribution-Grid-Snake/blob/output/snake-dark.svg" alt="GitHub user contributions" width="100%"/>  
 
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — _Martin Fowler_  
