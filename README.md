@@ -15,26 +15,18 @@
             <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
             <img src="https://img.shields.io/badge/JavaSript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="JavaScript" />
-        </div>
-        <div align="center">
             <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
             <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=009485" alt="Fast API" />
             <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
             <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
             <img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.JS" />
             <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt" />
-        </div>
-        <div align="center">
             <img src="https://img.shields.io/badge/HTML 5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
             <img src="https://img.shields.io/badge/CSS 3-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS 3" />
             <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
             <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-        </div>
-        <div align="center">
             <img src="https://img.shields.io/badge/Postgre SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre SQL" />
             <img src="https://img.shields.io/badge/My SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Postgre SQL" />
-        </div>
-        <div align="center">
             <img src="https://img.shields.io/badge/Visual Studio Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
             <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
             <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
