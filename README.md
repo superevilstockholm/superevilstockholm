@@ -1,33 +1,62 @@
-# Hi there! 👋 I'm **Rizky Aditya Zaenal**
-![Profile Views](https://komarev.com/ghpvc/?username=superevilstockholm&color=blueviolet&style=flat-square)  
-__*Welcome to my GitHub profile, where creativity meets code! 🚀. I am currently studying at SMKN 4 Tangerang and have completed a 6 months internship program at PT. Penukal Integritas Indonesia, and also participated in a 2 months Industrial Class Program*__  
+<div>
+    <h1 align="center">
+        Bjorki Dev
+    </h1>
+    <p align="center">
+        Indie web developer with 3+ years of programming experience, including 6 months of professional internship.
+    </p>
+</div>
 
-> ```print("Hello World😊")```
-
-## **Programming Language**<br><br><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="PHP" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" alt="TypeScript" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Lua-Dark.svg" alt="LUA" width="50"/>  
-
-## **BackEnd**<br><br><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="FastAPI" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Flask" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="Django" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" alt="Nuxt JS" width="50"/>  
-
-## **FrontEnd**<br><br><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" alt="Vue JS" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" alt="Nuxt JS" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Pinia-Dark.svg" alt="Pinia" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vuetify-Dark.svg" alt="Vuetify" width="50"/>  
-
-## **Database**<br><br><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="SQLite" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="Firebase" width="50"/>  
-
-## **Game**<br><br><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RobloxStudio.svg" alt="Roblox Studio" width="50"/> <img src="https://raw.githubusercontent.com/pygame/pygame/main/docs/reST/_static/pygame_logo.svg" alt="Pygame" height="50"/>  
-
-## **Desktop**<br><br><img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/qt.png" alt="PyQt5/6" width="50"/>  
-
-## **Others**<br><br><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="Selenium web automation" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="Scikit Learn" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="Vercel" width="50"/>  
-
-## **🔧 Tools**<br><br><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" width="50"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sublime-Dark.svg" alt="Sublime Text" width="50"/> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Dark.svg" alt="GitLab" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="Figma" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Notion-Dark.svg" alt="Notion" width="50"/> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Obsidian-Dark.svg" alt="Obsidian" width="50"/>  
-
-## **🚀 GitHub Statistics**<br><br><img src="https://streak-stats.demolab.com?user=superevilstockholm&theme=radical&hide_border=true&border_radius=8" /> <img src="https://github-readme-stats.vercel.app/api?username=superevilstockholm&show_icons=true&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=superevilstockholm&layout=compact&langs_count=10&theme=radical&hide_border=true" />  
-
-## **🏆 GitHub Trophy**<br><br><img src="https://github-profile-trophy.vercel.app/?username=superevilstockholm&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=5" />  
-
-## **🫴 Contribution Graph**<br><br><img src="https://github-readme-activity-graph.vercel.app/graph?username=superevilstockholm&theme=monokai&hide_border=true" alt="GitHub user contributions" />  
-
-### 🤝 **Connect with Me**<br><br>&nbsp;![LinkedIn](https://github.com/CLorant/readme-social-icons/blob/main/small/light/linkedin.svg) **[LinkedIn](https://www.linkedin.com/in/rizky-aditya-zaenal/)** | ![Instagram](https://github.com/CLorant/readme-social-icons/blob/main/small/light/instagram.svg) **[Instagram](https://www.instagram.com/bjorki_dev/)** | ![YouTube](https://github.com/CLorant/readme-social-icons/blob/main/small/light/youtube.svg) **[YouTube](https://www.youtube.com/@dit_project)**  
-
-<img src="https://github.com/superevilstockholm/superevilstockholm/blob/output/snake-dark.svg" alt="GitHub user contributions" width="100%"/>  
-
-> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — _Martin Fowler_  
+<div>
+    <div>
+        <h2 align="center">✨ Skills</h2>
+        <div align="center">
+            <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+            <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+            <img src="https://img.shields.io/badge/JavaSript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="JavaScript" />
+        </div>
+        <div align="center">
+            <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+            <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=009485" alt="Fast API" />
+            <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+            <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+            <img src="https://img.shields.io/badge/Vue.JS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.JS" />
+            <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=00DC82" alt="Nuxt" />
+        </div>
+        <div align="center">
+            <img src="https://img.shields.io/badge/HTML 5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5" />
+            <img src="https://img.shields.io/badge/CSS 3-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS 3" />
+            <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+            <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        </div>
+        <div align="center">
+            <img src="https://img.shields.io/badge/Postgre SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre SQL" />
+            <img src="https://img.shields.io/badge/My SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Postgre SQL" />
+        </div>
+        <div align="center">
+            <img src="https://img.shields.io/badge/Visual Studio Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+            <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+            <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+            <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+            <img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+            <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+        </div>
+    </div>
+    <div>
+        <h2 align="center">🔗 Connect</h2>
+        <div align="center">
+            <a href="https://github.com/superevilstockholm/" target="_blank"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+            <a href="https://gitlab.com/balilombok11/" target="_blank"><img src="https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+            <a href="https://www.linkedin.com/in/rizky-aditya-zaenal/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+            <a href="https://www.instagram.com/bjorki_dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+        </div>
+    </div>
+    <div>
+        <h2 align="center">📩 Contact</h2>
+        <div align="center">
+            <a href="mailto:balilombok11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+            <a href="https://wa.me/6285817203458/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+        </div>
+    </div>
+</div>
