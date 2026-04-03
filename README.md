@@ -26,7 +26,7 @@
             <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
             <img src="https://img.shields.io/badge/Tailwind CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
             <img src="https://img.shields.io/badge/Postgre SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgre SQL" />
-            <img src="https://img.shields.io/badge/My SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Postgre SQL" />
+            <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
             <img src="https://img.shields.io/badge/Visual Studio Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
             <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
             <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
